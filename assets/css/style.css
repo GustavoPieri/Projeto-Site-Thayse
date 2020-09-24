@@ -711,7 +711,7 @@ hr {
 /* scrollUp */
 /* line 430, C:/Users/HP/Desktop/July-HTML/287.Job_board/Job_board_Template/assets/scss/_common.scss */
 #scrollUp, #back-top {
-  background: #367FFF;
+  background: #f0a1e9;
   height: 50px;
   width: 50px;
   right: 31px;
@@ -3281,7 +3281,7 @@ hr {
 
 /* line 78, C:/Users/HP/Desktop/July-HTML/287.Job_board/Job_board_Template/assets/scss/_headerMenu.scss */
 .header-area .header-top .header-info-left .header-social > ul > li > a:hover {
-  color: #367FFF;
+  color: #f0a1e9;
 }
 
 /* line 89, C:/Users/HP/Desktop/July-HTML/287.Job_board/Job_board_Template/assets/scss/_headerMenu.scss */
